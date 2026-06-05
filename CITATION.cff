@@ -13,7 +13,7 @@ repository-code: "https://github.com/denisroutkevitch/closed-loop-blood-flow-con
 license-url: "https://github.com/denisroutkevitch/closed-loop-blood-flow-control/blob/main/LICENSE"
 identifiers:
   - type: doi
-    value: "10.6084/m9.figshare.32521884"
+    value: "10.5281/zenodo.20560608"
 preferred-citation:
   type: article
   title: "Optimal Closed-Loop Feedback Control of Blood Flow After Spinal Cord Injury with Norepinephrine."

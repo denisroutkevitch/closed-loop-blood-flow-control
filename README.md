@@ -144,6 +144,7 @@ If you use this code or data, please cite both the paper and the software/datase
 
 **Software:**
 
-> Routkevitch, D., et al. *closed-loop-blood-flow-control* (Version 1.0.0) [Software].
+> Routkevitch, D., et al. *closed-loop-blood-flow-control* (Version 1.0.0) [Software]. [![DOI](https://zenodo.org/badge/1258712011.svg)](https://doi.org/10.5281/zenodo.20560607)
+
 
 Machine-readable citation metadata is provided in [`CITATION.cff`](CITATION.cff).
