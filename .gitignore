@@ -1,0 +1,11 @@
+*.DS_Store
+analysis/repo_path.mat
+analysis/reference H_IP TFs.mat
+*.slxc
+preprocessing/raw_path.mat
+preprocessing/processed_path.mat
+preprocessing/slprj
+surgery_data.mat
+analysis/slprj
+*.asv
+real_time/Data/*

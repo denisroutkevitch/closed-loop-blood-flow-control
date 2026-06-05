@@ -1,0 +1,21 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Treat MATLAB source as text with LF endings
+*.m text eol=lf
+
+# Binary artifacts: never apply text/EOL normalization (prevents corruption,
+# especially on Windows clones)
+*.mat  binary
+*.slx  binary
+*.slxc binary
+*.mdl  binary
+*.mdd  binary
+*.fig  binary
+*.mex* binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.pdf  binary
+*.eps  binary

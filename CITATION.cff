@@ -1,0 +1,82 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated paper."
+title: "closed-loop-blood-flow-control"
+type: software
+version: "1.0.0"
+date-released: "2026-06-05"
+authors:
+  - family-names: "Routkevitch"
+    given-names: "Denis"
+    email: "droutke1@jhmi.edu"
+    affiliation: "Johns Hopkins University"
+repository-code: "https://github.com/denisroutkevitch/feedback_control_2025"  # TODO: confirm public URL
+license: "JHU"
+identifiers:
+  - type: doi
+    value: "10.6084/m9.figshare.32521884"
+preferred-citation:
+  type: article
+  title: "Optimal Closed-Loop Feedback Control of Blood Flow After Spinal Cord Injury with Norepinephrine."
+  authors:
+    - family-names: "Routkevitch"
+      given-names: "Denis"
+      affiliation: "Johns Hopkins University"
+    - family-names: Routkevitch
+      given-names: Denis
+    - family-names: Kramer
+      given-names: Patrick
+    - family-names: Lopez
+      given-names: Angelica F.
+    - family-names: Hao
+      given-names: Claire
+    - family-names: Baca
+      given-names: Emily C.
+    - family-names: Soulé
+      given-names: Zoe
+    - family-names: Kats
+      given-names: Nicholas
+    - family-names: Weber-Levine
+      given-names: Carly
+    - family-names: Jiang
+      given-names: Kelly
+    - family-names: Davidar
+      given-names: A. Daniel
+    - family-names: Vattipally
+      given-names: Vikas N.
+    - family-names: Bhimreddy
+      given-names: Meghana
+    - family-names: Menta
+      given-names: Arjun K.
+    - family-names: Jillala
+      given-names: Ritvik R.
+    - family-names: Bykov
+      given-names: Ben
+    - family-names: Lu
+      given-names: Noah
+    - family-names: Pelline
+      given-names: Mitchell
+    - family-names: Bohluli
+      given-names: Ryan
+    - family-names: Babu
+      given-names: Neil A.
+    - family-names: Myers
+      given-names: Patrick
+    - family-names: Kerensky
+      given-names: Max J.
+    - family-names: Hersh
+      given-names: Andrew M.
+    - family-names: Ashayeri
+      given-names: Kimberly
+    - family-names: Smit
+      given-names: Constantin
+    - family-names: Manbachi
+      given-names: Amir
+    - family-names: Sarma
+      given-names: Sridevi V.
+    - family-names: Theodore
+      given-names: Nicholas
+    - family-names: Thakor
+      given-names: Nitish V.
+  journal: "Nature Biomedical Engineering"
+  year: 2026
+  doi: "10.XXXX/XXXXXX"    # TODO: paper DOI
