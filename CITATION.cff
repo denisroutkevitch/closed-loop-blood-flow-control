@@ -9,8 +9,8 @@ authors:
     given-names: "Denis"
     email: "droutke1@jhmi.edu"
     affiliation: "Johns Hopkins University"
-repository-code: "https://github.com/denisroutkevitch/feedback_control_2025"  # TODO: confirm public URL
-license: "JHU"
+repository-code: "https://github.com/denisroutkevitch/closed-loop-blood-flow-control"
+license-url: "https://github.com/denisroutkevitch/closed-loop-blood-flow-control/blob/main/LICENSE"
 identifiers:
   - type: doi
     value: "10.6084/m9.figshare.32521884"
@@ -78,5 +78,4 @@ preferred-citation:
     - family-names: Thakor
       given-names: Nitish V.
   journal: "Nature Biomedical Engineering"
-  year: 2026
-  doi: "10.XXXX/XXXXXX"    # TODO: paper DOI
+  year: 2026     # TODO: paper DOI
