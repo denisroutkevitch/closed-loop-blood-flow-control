@@ -134,15 +134,16 @@ the pipeline as shipped.
 
 If you use this code or data, please cite both the paper and the software/dataset.
 
-> *(TODO: replace the placeholders below with the final citation once published.)*
-
 **Paper:**
 
 > Routkevitch, D., et al. "Optimal Closed-Loop Feedback Control of Blood Flow After Spinal Cord Injury with Norepinephrine." *Nature Biomedical Engineering* (2026). DOI: `pending publication`
 
-**Software / dataset:**
+**Dataset:**
+
+> Routkevitch, D., et al. (2026). "Optimal Closed-Loop Feedback Control of Blood Flow After Spinal Cord Injury with Norepinephrine." figshare. Dataset. https://doi.org/10.6084/m9.figshare.32521884
+
+**Software:**
 
 > Routkevitch, D., et al. *closed-loop-blood-flow-control* (Version 1.0.0) [Software].
-> Routkevitch, D., et al. (2026). "Optimal Closed-Loop Feedback Control of Blood Flow After Spinal Cord Injury with Norepinephrine." figshare. Dataset. https://doi.org/10.6084/m9.figshare.32521884
 
 Machine-readable citation metadata is provided in [`CITATION.cff`](CITATION.cff).
