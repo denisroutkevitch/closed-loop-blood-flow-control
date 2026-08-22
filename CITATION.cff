@@ -76,4 +76,5 @@ preferred-citation:
     - family-names: Thakor
       given-names: Nitish V.
   journal: "Nature Biomedical Engineering"
-  year: 2026     # TODO: paper DOI
+  year: 2026
+  doi: "10.1038/s41551-026-01777-6"

@@ -136,7 +136,7 @@ If you use this code or data, please cite both the paper and the software/datase
 
 **Paper:**
 
-> Routkevitch, D., et al. "Optimal Closed-Loop Feedback Control of Blood Flow After Spinal Cord Injury with Norepinephrine." *Nature Biomedical Engineering* (2026). DOI: `pending publication`
+> Routkevitch, D., et al. "Optimal Closed-Loop Feedback Control of Blood Flow After Spinal Cord Injury with Norepinephrine." *Nature Biomedical Engineering* (2026). https://doi.org/10.1038/s41551-026-01777-6
 
 **Dataset:**
 
